@@ -1123,7 +1123,7 @@ select {
                 });
             });
         </script>
-        <input id="jqxInput" />
+        <input id="jqxInput" autocomplete="off"/>
 
 		</div>
 				
@@ -2049,7 +2049,7 @@ select {
 				  <tr>
 					<td style="text-align:center"><a href='https://www.macrotrends.net/stocks/sector/5/auto-tires-trucks'>Auto/Tires/Trucks</a></td>
 					<td style="text-align:center"><a href='https://www.macrotrends.net/stocks/industry/7/'>Auto Manufacturers - Domestic</a></td>
-					<td style="text-align:center">$551.834B</td>
+					<td style="text-align:center">$647.233B</td>
 					<td style="text-align:center">$31.536B</td>
 				  </tr>
 				  <tr>
@@ -2081,8 +2081,8 @@ select {
 				<tr>
 					<td style="text-align:left"><a href='/stocks/charts/GM/general-motors/revenue'>General Motors (GM)</a></td>
 					<td style="text-align:center">United States</td>
-					<td style="text-align:center">$92.060B</td>
-					<td style="text-align:center">9.75</td>
+					<td style="text-align:center">$87.475B</td>
+					<td style="text-align:center">9.26</td>
 				 </tr>
 
 						
@@ -2090,8 +2090,8 @@ select {
 				<tr>
 					<td style="text-align:left"><a href='/stocks/charts/F/ford-motor/revenue'>Ford Motor (F)</a></td>
 					<td style="text-align:center">United States</td>
-					<td style="text-align:center">$63.826B</td>
-					<td style="text-align:center">10.45</td>
+					<td style="text-align:center">$60.633B</td>
+					<td style="text-align:center">9.93</td>
 				 </tr>
 
 						
@@ -2099,8 +2099,8 @@ select {
 				<tr>
 					<td style="text-align:left"><a href='/stocks/charts/PCAR/paccar/revenue'>PACCAR (PCAR)</a></td>
 					<td style="text-align:center">United States</td>
-					<td style="text-align:center">$32.292B</td>
-					<td style="text-align:center">22.91</td>
+					<td style="text-align:center">$30.890B</td>
+					<td style="text-align:center">21.92</td>
 				 </tr>
 
 						
@@ -2108,8 +2108,8 @@ select {
 				<tr>
 					<td style="text-align:left"><a href='/stocks/charts/PII/polaris/revenue'>Polaris (PII)</a></td>
 					<td style="text-align:center">United States</td>
-					<td style="text-align:center">$7.660B</td>
-					<td style="text-align:center">12.77</td>
+					<td style="text-align:center">$8.198B</td>
+					<td style="text-align:center">13.67</td>
 				 </tr>
 
 						
@@ -2117,8 +2117,8 @@ select {
 				<tr>
 					<td style="text-align:left"><a href='/stocks/charts/IAA/iaa/revenue'>IAA (IAA)</a></td>
 					<td style="text-align:center">United States</td>
-					<td style="text-align:center">$7.560B</td>
-					<td style="text-align:center">32.24</td>
+					<td style="text-align:center">$7.371B</td>
+					<td style="text-align:center">31.44</td>
 				 </tr>
 
 						
@@ -2126,8 +2126,8 @@ select {
 				<tr>
 					<td style="text-align:left"><a href='/stocks/charts/HOG/harley-davidson/revenue'>Harley-Davidson (HOG)</a></td>
 					<td style="text-align:center">United States</td>
-					<td style="text-align:center">$7.527B</td>
-					<td style="text-align:center">25.25</td>
+					<td style="text-align:center">$7.271B</td>
+					<td style="text-align:center">24.39</td>
 				 </tr>
 
 						
@@ -2135,7 +2135,7 @@ select {
 				<tr>
 					<td style="text-align:left"><a href='/stocks/charts/NKLA/nikola/revenue'>Nikola (NKLA)</a></td>
 					<td style="text-align:center">United States</td>
-					<td style="text-align:center">$6.648B</td>
+					<td style="text-align:center">$7.155B</td>
 					<td style="text-align:center">0.00</td>
 				 </tr>
 
@@ -2144,8 +2144,8 @@ select {
 				<tr>
 					<td style="text-align:left"><a href='/stocks/charts/FOXF/fox-factory-holding/revenue'>Fox Factory Holding (FOXF)</a></td>
 					<td style="text-align:center">United States</td>
-					<td style="text-align:center">$6.261B</td>
-					<td style="text-align:center">42.39</td>
+					<td style="text-align:center">$6.460B</td>
+					<td style="text-align:center">43.73</td>
 				 </tr>
 
 						
@@ -2153,7 +2153,7 @@ select {
 				<tr>
 					<td style="text-align:left"><a href='/stocks/charts/VRM/vroom/revenue'>Vroom (VRM)</a></td>
 					<td style="text-align:center">United States</td>
-					<td style="text-align:center">$5.891B</td>
+					<td style="text-align:center">$6.026B</td>
 					<td style="text-align:center">0.00</td>
 				 </tr>
 
@@ -2162,7 +2162,7 @@ select {
 				<tr>
 					<td style="text-align:left"><a href='/stocks/charts/GOEV/canoo/revenue'>Canoo (GOEV)</a></td>
 					<td style="text-align:center">United States</td>
-					<td style="text-align:center">$2.116B</td>
+					<td style="text-align:center">$2.297B</td>
 					<td style="text-align:center">0.00</td>
 				 </tr>
 
@@ -2171,8 +2171,8 @@ select {
 				<tr>
 					<td style="text-align:left"><a href='/stocks/charts/BLBD/blue-bird/revenue'>Blue Bird (BLBD)</a></td>
 					<td style="text-align:center">United States</td>
-					<td style="text-align:center">$0.718B</td>
-					<td style="text-align:center">43.34</td>
+					<td style="text-align:center">$0.748B</td>
+					<td style="text-align:center">45.15</td>
 				 </tr>
 
 						
@@ -2180,7 +2180,7 @@ select {
 				<tr>
 					<td style="text-align:left"><a href='/stocks/charts/AUTO/autobytel/revenue'>Autobytel (AUTO)</a></td>
 					<td style="text-align:center">United States</td>
-					<td style="text-align:center">$0.037B</td>
+					<td style="text-align:center">$0.041B</td>
 					<td style="text-align:center">0.00</td>
 				 </tr>
 
@@ -2258,7 +2258,7 @@ select {
 		
 
 <!--This is the div for the IC OOP ad-->
-<div id="oopDivTag" style="width:1px;height:1px;"></div>
+<div id="oopDivTag_1" style="width:1px;height:1px;"></div>
 		
 
 <footer class="footer">
@@ -2459,7 +2459,7 @@ select {
 
 $(document).ready(function() {
 	
-	var user_data = '68.4.71.192';	var country_code = 'United States';
+	var user_data = '52.116.125.104';	var country_code = 'United States';
 	$.post('https://www.macrotrends.net/assets/php/user_frequency_tracking.php', {user_ip: user_data, user_country: country_code}); 
 
 	// Selects all of the text in the chart export window when clicked
@@ -2515,7 +2515,7 @@ $( "#chartExport" ).click(function() {
 		chart.export.capture({},function() {
 			this.toPNG({},function(data) {
 				// Download the image to the browser
-				this.download( data, "image/png", "TSLA-revenue-2021-06-05-macrotrends.png" );
+				this.download( data, "image/png", "TSLA-revenue-2021-06-29-macrotrends.png" );
 				
 				});
 
