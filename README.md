@@ -4,7 +4,7 @@
 
 ## Apply yfinance ticker to extract Game Stop stock data
 
-## Use Webscraping to Extract GME Revenue Data
+## Use Webscraping to generate GME revenue data
 
 ## Plot Tesla Stock Graph
 
