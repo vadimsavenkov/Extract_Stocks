@@ -8,15 +8,15 @@
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 		<link rel="canonical" href="https://www.macrotrends.net/stocks/charts/TSLA/tesla/revenue" />
-		<title>Tesla Revenue 2009-2021 | TSLA | MacroTrends</title>
-		<meta name="description" content="Tesla annual/quarterly revenue history and growth rate from 2009 to 2021. Revenue can be defined as the amount of money a company receives from its customers in exchange for the sales of goods or services.  Revenue is the top line item on an income statement from which all costs and expenses are subtracted to arrive at net income.    
+		<title>Tesla Revenue 2010-2021 | TSLA | MacroTrends</title>
+		<meta name="description" content="Tesla annual/quarterly revenue history and growth rate from 2010 to 2021. Revenue can be defined as the amount of money a company receives from its customers in exchange for the sales of goods or services.  Revenue is the top line item on an income statement from which all costs and expenses are subtracted to arrive at net income.    
 				
 				&lt;ul style='margin-top:10px;'&gt;
-				&lt;li&gt;Tesla revenue for the quarter ending March 31, 2021 was &lt;strong&gt;$10.389B&lt;/strong&gt;, a &lt;strong&gt;73.58% increase&lt;/strong&gt; year-over-year.&lt;/li&gt;
-				&lt;li&gt;Tesla revenue for the twelve months ending March 31, 2021 was &lt;strong&gt;$35.940B&lt;/strong&gt;, a &lt;strong&gt;38.11% increase&lt;/strong&gt; year-over-year.&lt;/li&gt;
+				&lt;li&gt;Tesla revenue for the quarter ending December 31, 2021 was &lt;strong&gt;$17.719B&lt;/strong&gt;, a &lt;strong&gt;64.92% increase&lt;/strong&gt; year-over-year.&lt;/li&gt;
+				&lt;li&gt;Tesla revenue for the twelve months ending December 31, 2021 was &lt;strong&gt;$53.823B&lt;/strong&gt;, a &lt;strong&gt;70.67% increase&lt;/strong&gt; year-over-year.&lt;/li&gt;
+				&lt;li&gt;Tesla annual revenue for 2021 was &lt;strong&gt;$53.823B&lt;/strong&gt;, a &lt;strong&gt;70.67% increase&lt;/strong&gt; from 2020.&lt;/li&gt;
 				&lt;li&gt;Tesla annual revenue for 2020 was &lt;strong&gt;$31.536B&lt;/strong&gt;, a &lt;strong&gt;28.31% increase&lt;/strong&gt; from 2019.&lt;/li&gt;
 				&lt;li&gt;Tesla annual revenue for 2019 was &lt;strong&gt;$24.578B&lt;/strong&gt;, a &lt;strong&gt;14.52% increase&lt;/strong&gt; from 2018.&lt;/li&gt;
-				&lt;li&gt;Tesla annual revenue for 2018 was &lt;strong&gt;$21.461B&lt;/strong&gt;, a &lt;strong&gt;82.51% increase&lt;/strong&gt; from 2017.&lt;/li&gt;
 				&lt;/ul&gt;" />
 		<meta name="robots" content="" />
 				
@@ -52,28 +52,28 @@
 		 <!-- Twitter Card data -->
 		  <meta name="twitter:card" content="summary_large_image">
 		  <meta name="twitter:site" content="@tmacrotrends">
-		  <meta name="twitter:title" content="Tesla Revenue 2009-2021 | TSLA">
-		  <meta name="twitter:description" content="Tesla annual/quarterly revenue history and growth rate from 2009 to 2021. Revenue can be defined as the amount of money a company receives from its customers in exchange for the sales of goods or services.  Revenue is the top line item on an income statement from which all costs and expenses are subtracted to arrive at net income.    
+		  <meta name="twitter:title" content="Tesla Revenue 2010-2021 | TSLA">
+		  <meta name="twitter:description" content="Tesla annual/quarterly revenue history and growth rate from 2010 to 2021. Revenue can be defined as the amount of money a company receives from its customers in exchange for the sales of goods or services.  Revenue is the top line item on an income statement from which all costs and expenses are subtracted to arrive at net income.    
 				
 				<ul style='margin-top:10px;'>
-				<li>Tesla revenue for the quarter ending March 31, 2021 was <strong>$10.389B</strong>, a <strong>73.58% increase</strong> year-over-year.</li>
-				<li>Tesla revenue for the twelve months ending March 31, 2021 was <strong>$35.940B</strong>, a <strong>38.11% increase</strong> year-over-year.</li>
+				<li>Tesla revenue for the quarter ending December 31, 2021 was <strong>$17.719B</strong>, a <strong>64.92% increase</strong> year-over-year.</li>
+				<li>Tesla revenue for the twelve months ending December 31, 2021 was <strong>$53.823B</strong>, a <strong>70.67% increase</strong> year-over-year.</li>
+				<li>Tesla annual revenue for 2021 was <strong>$53.823B</strong>, a <strong>70.67% increase</strong> from 2020.</li>
 				<li>Tesla annual revenue for 2020 was <strong>$31.536B</strong>, a <strong>28.31% increase</strong> from 2019.</li>
 				<li>Tesla annual revenue for 2019 was <strong>$24.578B</strong>, a <strong>14.52% increase</strong> from 2018.</li>
-				<li>Tesla annual revenue for 2018 was <strong>$21.461B</strong>, a <strong>82.51% increase</strong> from 2017.</li>
 				</ul>">
 
 		  <!-- Open Graph data -->
 		  <meta property="og:url" content="https://www.macrotrends.net/stocks/charts/TSLA/tesla/revenue" />  
-		  <meta property="og:title" content="Tesla Revenue 2009-2021 | TSLA" />
-		  <meta property="og:description" content="Tesla annual/quarterly revenue history and growth rate from 2009 to 2021. Revenue can be defined as the amount of money a company receives from its customers in exchange for the sales of goods or services.  Revenue is the top line item on an income statement from which all costs and expenses are subtracted to arrive at net income.    
+		  <meta property="og:title" content="Tesla Revenue 2010-2021 | TSLA" />
+		  <meta property="og:description" content="Tesla annual/quarterly revenue history and growth rate from 2010 to 2021. Revenue can be defined as the amount of money a company receives from its customers in exchange for the sales of goods or services.  Revenue is the top line item on an income statement from which all costs and expenses are subtracted to arrive at net income.    
 				
 				<ul style='margin-top:10px;'>
-				<li>Tesla revenue for the quarter ending March 31, 2021 was <strong>$10.389B</strong>, a <strong>73.58% increase</strong> year-over-year.</li>
-				<li>Tesla revenue for the twelve months ending March 31, 2021 was <strong>$35.940B</strong>, a <strong>38.11% increase</strong> year-over-year.</li>
+				<li>Tesla revenue for the quarter ending December 31, 2021 was <strong>$17.719B</strong>, a <strong>64.92% increase</strong> year-over-year.</li>
+				<li>Tesla revenue for the twelve months ending December 31, 2021 was <strong>$53.823B</strong>, a <strong>70.67% increase</strong> year-over-year.</li>
+				<li>Tesla annual revenue for 2021 was <strong>$53.823B</strong>, a <strong>70.67% increase</strong> from 2020.</li>
 				<li>Tesla annual revenue for 2020 was <strong>$31.536B</strong>, a <strong>28.31% increase</strong> from 2019.</li>
 				<li>Tesla annual revenue for 2019 was <strong>$24.578B</strong>, a <strong>14.52% increase</strong> from 2018.</li>
-				<li>Tesla annual revenue for 2018 was <strong>$21.461B</strong>, a <strong>82.51% increase</strong> from 2017.</li>
 				</ul>" />
 
 		<!-- JQXGRID STYLES AND JAVASCRIPT -->
@@ -122,7 +122,9 @@
 		var partner_center_tag;
 		var videoTag;
 		var ic_3x7_1;
-    
+ 		//var IC_D_300x250_BCC;
+		//var IC_D_3x7_BCC;
+   
         //To define new tags/out of page tags.
         InvestingChannelQueue.push(function() {
 			
@@ -134,7 +136,7 @@
 			oopDivTag.setKval({"adslot":"IC_OOP_1"});
             
 			
-			subLeaderboardTag = ic_page.defineTag("Macrotrends/fundamentalanalysis","728x90,Fluid","ic_728x90_1");
+			subLeaderboardTag = ic_page.defineTag("Macrotrends/fundamentalanalysis","728x90","ic_728x90_1");
 			subLeaderboardTag.setKval({"adslot":"IC_728x90_1"});
 			
 			
@@ -153,11 +155,18 @@
 			partner_center_tag.setKval({"pc":"pc","adslot":"d_728x90_2"});
 
 			ic_3x7_1 = ic_page.defineNativeTag("macrotrends/fundamentalanalysis","3x7,728x90,Fluid","IC_3x7_1", 35);
+			
+			//IC_D_300x250_BCC = ic_page.defineTag(adCategory,"300x250,Fluid","IC_D_300x250_BCC");
+			//IC_D_300x250_BCC.setKval({"adslot":"IC_D_300x250_BCC"});
+
+			//IC_D_3x7_BCC = ic_page.defineTag(adCategory,"3x7, Fluid","IC_D_3x7_BCC");
+			//IC_D_3x7_BCC.setKval({"adslot":"IC_D_3x7_BCC"});
+			
 
         });
     
         //To render tags.
-        InvestingChannelQueue.push(function() {
+			InvestingChannelQueue.push(function() {
             ic_page.renderTags();
         });
         
@@ -312,7 +321,7 @@ body {
 	
   width: 300px;
   float:left;
-  height:3260px;
+  height:3140px;
 	
 }
 
@@ -739,7 +748,7 @@ select {
 
 .nav-tabs>li>a {
 	font-size:13px;
-	padding:7px 12px;
+	padding:7px 11px;
 	font-weight:600;
     margin-right: 0px;
     line-height: 1.42857143;
@@ -912,7 +921,7 @@ select {
 			
 			<div style="margin:20px;">
 			
-				<h2 style="margin-left:0px; font-weight:600; color:#444;">Tesla Revenue 2009-2021 | TSLA</h2>
+				<h2 style="margin-left:0px; font-weight:600; color:#444;">Tesla Revenue 2010-2021 | TSLA</h2>
 			
 			</div>
 			
@@ -1038,30 +1047,20 @@ select {
 
 
 
-
-<div class="nav-tabs" style="margin-bottom:20px; padding:15px; text-align:center; font-weight:600;">
-
-	<span>For a detailed definition, formula and example for <a href="/formulas-definitions/revenue">Revenue</a>, check out our new background page <a href="/formulas-definitions/revenue">here</a>.</span>
-
-</div>
-
-
-
-
 			
 
 		
 
 			<div style="background-color:#fff; margin: 0px 0px 20px 0px; padding:20px 30px; border:1px solid #dfdfdf;">
 			
-				<span style="color:#444; line-height: 1.8;">Tesla annual/quarterly revenue history and growth rate from 2009 to 2021. Revenue can be defined as the amount of money a company receives from its customers in exchange for the sales of goods or services.  Revenue is the top line item on an income statement from which all costs and expenses are subtracted to arrive at net income.    
+				<span style="color:#444; line-height: 1.8;">Tesla annual/quarterly revenue history and growth rate from 2010 to 2021. Revenue can be defined as the amount of money a company receives from its customers in exchange for the sales of goods or services.  Revenue is the top line item on an income statement from which all costs and expenses are subtracted to arrive at net income.    
 				
 				<ul style='margin-top:10px;'>
-				<li>Tesla revenue for the quarter ending March 31, 2021 was <strong>$10.389B</strong>, a <strong>73.58% increase</strong> year-over-year.</li>
-				<li>Tesla revenue for the twelve months ending March 31, 2021 was <strong>$35.940B</strong>, a <strong>38.11% increase</strong> year-over-year.</li>
+				<li>Tesla revenue for the quarter ending December 31, 2021 was <strong>$17.719B</strong>, a <strong>64.92% increase</strong> year-over-year.</li>
+				<li>Tesla revenue for the twelve months ending December 31, 2021 was <strong>$53.823B</strong>, a <strong>70.67% increase</strong> year-over-year.</li>
+				<li>Tesla annual revenue for 2021 was <strong>$53.823B</strong>, a <strong>70.67% increase</strong> from 2020.</li>
 				<li>Tesla annual revenue for 2020 was <strong>$31.536B</strong>, a <strong>28.31% increase</strong> from 2019.</li>
 				<li>Tesla annual revenue for 2019 was <strong>$24.578B</strong>, a <strong>14.52% increase</strong> from 2018.</li>
-				<li>Tesla annual revenue for 2018 was <strong>$21.461B</strong>, a <strong>82.51% increase</strong> from 2017.</li>
 				</ul></span>
 			
 			</div>
@@ -1138,7 +1137,7 @@ select {
 		
 		<div style="height:690px; background-color:#fff; border:1px solid #dfdfdf;">
 		
-<iframe id="chart_iframe" title="Interactive chart: Tesla Revenue 2009-2021 | TSLA" valign="middle" margin="0px" width="800" height="680" marginheight=0 marginwidth=0 frameborder=0 vspace=0 hspace=0 scrolling=NO  src="https://www.macrotrends.net/assets/php/fundamental_iframe.php?t=TSLA&type=revenue&statement=income-statement&freq=Q"></iframe>	
+<iframe id="chart_iframe" title="Interactive chart: Tesla Revenue 2010-2021 | TSLA" valign="middle" margin="0px" width="800" height="680" marginheight=0 marginwidth=0 frameborder=0 vspace=0 hspace=0 scrolling=NO  src="https://www.macrotrends.net/assets/php/fundamental_iframe.php?t=TSLA&type=revenue&statement=income-statement&freq=Q"></iframe>	
 	
 		
 		</div>
@@ -1158,7 +1157,10 @@ select {
 			<div style="background-color:#fff; margin: 30px 0px; padding:10px 30px; border:1px solid #dfdfdf;">
 		
 		
-			<iframe id="dianomi_below_chart" valign="middle" width="100%" height="300" marginheight=0 marginwidth=0 frameborder=0 vspace=0 hspace=0 scrolling=NO  src="//www.dianomi.com/smartads.epl?id=4057"></iframe>	
+			<iframe id="dianomi_below_chart" valign="middle" width="100%" height="300" marginheight=0 marginwidth=0 frameborder=0 vspace=0 hspace=0 scrolling=NO  src="//www.dianomi.com/smartads.epl?id=4057"></iframe>
+
+			<!--<div id="IC_D_3x7_BCC"></div>-->
+			
 		
 		</div>		
 
@@ -1177,6 +1179,17 @@ select {
 				</thead>					
 				<tbody>
 								
+												
+				<tr>
+					<td style="text-align:center">2021</td>
+				
+				
+				
+										<td style="text-align:center">$53,823</td>
+				
+								
+				</tr>
+				  
 												
 				<tr>
 					<td style="text-align:center">2020</td>
@@ -1309,17 +1322,6 @@ select {
 								
 				</tr>
 				  
-												
-				<tr>
-					<td style="text-align:center">2008</td>
-				
-				
-				
-										<td style="text-align:center">$15</td>
-				
-								
-				</tr>
-				  
 				  
 				</tbody>
 			  </table>
@@ -1336,6 +1338,48 @@ select {
 				</thead>				
 				<tbody>
 				
+												
+				<tr>
+					<td style="text-align:center">2021-12-31</td>
+				
+				
+				
+										
+										
+						<td style="text-align:center">$17,719</td>
+						
+									
+								
+				  </tr>
+				  
+												
+				<tr>
+					<td style="text-align:center">2021-09-30</td>
+				
+				
+				
+										
+										
+						<td style="text-align:center">$13,757</td>
+						
+									
+								
+				  </tr>
+				  
+												
+				<tr>
+					<td style="text-align:center">2021-06-30</td>
+				
+				
+				
+										
+										
+						<td style="text-align:center">$11,958</td>
+						
+									
+								
+				  </tr>
+				  
 												
 				<tr>
 					<td style="text-align:center">2021-03-31</td>
@@ -2008,20 +2052,6 @@ select {
 								
 				  </tr>
 				  
-												
-				<tr>
-					<td style="text-align:center">2008-12-31</td>
-				
-				
-				
-										
-					
-						<td style="text-align:center"></td>					
-					
-									
-								
-				  </tr>
-				  
 				  
 				</tbody>
 			  </table>
@@ -2049,8 +2079,8 @@ select {
 				  <tr>
 					<td style="text-align:center"><a href='https://www.macrotrends.net/stocks/sector/5/auto-tires-trucks'>Auto/Tires/Trucks</a></td>
 					<td style="text-align:center"><a href='https://www.macrotrends.net/stocks/industry/7/'>Auto Manufacturers - Domestic</a></td>
-					<td style="text-align:center">$647.233B</td>
-					<td style="text-align:center">$31.536B</td>
+					<td style="text-align:center">$1003.371B</td>
+					<td style="text-align:center">$53.823B</td>
 				  </tr>
 				  <tr>
 					  <td colspan="4" style="padding:15px;">
@@ -2079,28 +2109,19 @@ select {
 						
 						
 				<tr>
-					<td style="text-align:left"><a href='/stocks/charts/GM/general-motors/revenue'>General Motors (GM)</a></td>
-					<td style="text-align:center">United States</td>
-					<td style="text-align:center">$87.475B</td>
-					<td style="text-align:center">9.26</td>
-				 </tr>
-
-						
-						
-				<tr>
 					<td style="text-align:left"><a href='/stocks/charts/F/ford-motor/revenue'>Ford Motor (F)</a></td>
 					<td style="text-align:center">United States</td>
-					<td style="text-align:center">$60.633B</td>
-					<td style="text-align:center">9.93</td>
+					<td style="text-align:center">$66.791B</td>
+					<td style="text-align:center">9.32</td>
 				 </tr>
 
 						
 						
 				<tr>
-					<td style="text-align:left"><a href='/stocks/charts/PCAR/paccar/revenue'>PACCAR (PCAR)</a></td>
+					<td style="text-align:left"><a href='/stocks/charts/GM/general-motors/revenue'>General Motors (GM)</a></td>
 					<td style="text-align:center">United States</td>
-					<td style="text-align:center">$30.890B</td>
-					<td style="text-align:center">21.92</td>
+					<td style="text-align:center">$63.613B</td>
+					<td style="text-align:center">6.17</td>
 				 </tr>
 
 						
@@ -2108,17 +2129,8 @@ select {
 				<tr>
 					<td style="text-align:left"><a href='/stocks/charts/PII/polaris/revenue'>Polaris (PII)</a></td>
 					<td style="text-align:center">United States</td>
-					<td style="text-align:center">$8.198B</td>
-					<td style="text-align:center">13.67</td>
-				 </tr>
-
-						
-						
-				<tr>
-					<td style="text-align:left"><a href='/stocks/charts/IAA/iaa/revenue'>IAA (IAA)</a></td>
-					<td style="text-align:center">United States</td>
-					<td style="text-align:center">$7.371B</td>
-					<td style="text-align:center">31.44</td>
+					<td style="text-align:center">$6.170B</td>
+					<td style="text-align:center">11.35</td>
 				 </tr>
 
 						
@@ -2126,61 +2138,43 @@ select {
 				<tr>
 					<td style="text-align:left"><a href='/stocks/charts/HOG/harley-davidson/revenue'>Harley-Davidson (HOG)</a></td>
 					<td style="text-align:center">United States</td>
-					<td style="text-align:center">$7.271B</td>
-					<td style="text-align:center">24.39</td>
+					<td style="text-align:center">$5.814B</td>
+					<td style="text-align:center">8.55</td>
 				 </tr>
 
 						
 						
 				<tr>
-					<td style="text-align:left"><a href='/stocks/charts/NKLA/nikola/revenue'>Nikola (NKLA)</a></td>
+					<td style="text-align:left"><a href='/stocks/charts/IAA/iaa/revenue'>IAA (IAA)</a></td>
 					<td style="text-align:center">United States</td>
-					<td style="text-align:center">$7.155B</td>
+					<td style="text-align:center">$4.966B</td>
+					<td style="text-align:center">15.40</td>
+				 </tr>
+
+						
+						
+				<tr>
+					<td style="text-align:left"><a href='/stocks/charts/FSR/fisker/revenue'>Fisker (FSR)</a></td>
+					<td style="text-align:center">United States</td>
+					<td style="text-align:center">$3.618B</td>
 					<td style="text-align:center">0.00</td>
 				 </tr>
 
 						
 						
 				<tr>
-					<td style="text-align:left"><a href='/stocks/charts/FOXF/fox-factory-holding/revenue'>Fox Factory Holding (FOXF)</a></td>
+					<td style="text-align:left"><a href='/stocks/charts/LEV/lion-electric/revenue'>Lion Electric (LEV)</a></td>
 					<td style="text-align:center">United States</td>
-					<td style="text-align:center">$6.460B</td>
-					<td style="text-align:center">43.73</td>
-				 </tr>
-
-						
-						
-				<tr>
-					<td style="text-align:left"><a href='/stocks/charts/VRM/vroom/revenue'>Vroom (VRM)</a></td>
-					<td style="text-align:center">United States</td>
-					<td style="text-align:center">$6.026B</td>
+					<td style="text-align:center">$1.639B</td>
 					<td style="text-align:center">0.00</td>
 				 </tr>
 
 						
 						
 				<tr>
-					<td style="text-align:left"><a href='/stocks/charts/GOEV/canoo/revenue'>Canoo (GOEV)</a></td>
+					<td style="text-align:left"><a href='/stocks/charts/BRDS/bird-global/revenue'>Bird Global (BRDS)</a></td>
 					<td style="text-align:center">United States</td>
-					<td style="text-align:center">$2.297B</td>
-					<td style="text-align:center">0.00</td>
-				 </tr>
-
-						
-						
-				<tr>
-					<td style="text-align:left"><a href='/stocks/charts/BLBD/blue-bird/revenue'>Blue Bird (BLBD)</a></td>
-					<td style="text-align:center">United States</td>
-					<td style="text-align:center">$0.748B</td>
-					<td style="text-align:center">45.15</td>
-				 </tr>
-
-						
-						
-				<tr>
-					<td style="text-align:left"><a href='/stocks/charts/AUTO/autobytel/revenue'>Autobytel (AUTO)</a></td>
-					<td style="text-align:center">United States</td>
-					<td style="text-align:center">$0.041B</td>
+					<td style="text-align:center">$0.741B</td>
 					<td style="text-align:center">0.00</td>
 				 </tr>
 
@@ -2237,10 +2231,18 @@ select {
 					
 				</div>
 				
-				<div id="sticky_ad_right" style="margin-top:30px; height:670px;">
+				<div id="sticky_ad_right" style="margin-top:30px; height:1000px;">
+				
+					<script type="text/javascript" id="dianomi_context_script" src="https://www.dianomi.com/js/contextfeed.js"></script>
+					<div class="dianomi_context" data-dianomi-context-id="743"></div>
+
+					<!-- <div id="IC_D_300x250_BCC"></div>-->
 
 					<!--Smartad # 2981: Macrotrends - 300x670 Right Rail-->
 					<iframe id="dianomi_sidebar" width="300" height="670" scrolling="NO" src="//www.dianomi.com/smartads.epl?id=4059"  style="width: 300px; border: none; overflow: hidden;"></iframe>
+					
+					<div id="IC_D_300x250_BCC"></div>
+
 
 				</div>			
 
@@ -2263,7 +2265,7 @@ select {
 
 <footer class="footer">
 
-		<span>&copy; 2010-2021 Macrotrends LLC</span>&nbsp;&nbsp;|&nbsp;&nbsp;
+		<span>&copy; 2010-2022 Macrotrends LLC</span>&nbsp;&nbsp;|&nbsp;&nbsp;
 		  <a href="/terms">Terms of Service</a>
 		  &nbsp;&nbsp;|&nbsp;&nbsp;
 		  <a href="/privacy">Privacy Policy</a>&nbsp;&nbsp;|&nbsp;&nbsp;
@@ -2297,8 +2299,8 @@ select {
 </thead>
 <tbody>
 <tr>
-<td><a>Tesla Revenue 2009-2021 | TSLA</a></td>
-<td><input type="text" class="modal_link" size="60" value="<a href='https://www.macrotrends.net/stocks/charts/TSLA/tesla/revenue'>Tesla Revenue 2009-2021 | TSLA</a>"></td>
+<td><a>Tesla Revenue 2010-2021 | TSLA</a></td>
+<td><input type="text" class="modal_link" size="60" value="<a href='https://www.macrotrends.net/stocks/charts/TSLA/tesla/revenue'>Tesla Revenue 2010-2021 | TSLA</a>"></td>
 </tr>
 <tr>
 <td><a>Macrotrends</a></td>
@@ -2349,8 +2351,8 @@ select {
 </thead>
 <tbody>
 <tr>
-<td><a>Tesla Revenue 2009-2021 | TSLA</a></td>
-<td><input type="text" class="modal_link" size="50" value="<a href='https://www.macrotrends.net/stocks/charts/TSLA/tesla/revenue'>Tesla Revenue 2009-2021 | TSLA</a>"></td>
+<td><a>Tesla Revenue 2010-2021 | TSLA</a></td>
+<td><input type="text" class="modal_link" size="50" value="<a href='https://www.macrotrends.net/stocks/charts/TSLA/tesla/revenue'>Tesla Revenue 2010-2021 | TSLA</a>"></td>
 </tr>
 <tr>
 <td><a>Macrotrends</a></td>
@@ -2459,7 +2461,7 @@ select {
 
 $(document).ready(function() {
 	
-	var user_data = '52.116.125.104';	var country_code = 'United States';
+	var user_data = '76.84.226.100';	var country_code = 'United States';
 	$.post('https://www.macrotrends.net/assets/php/user_frequency_tracking.php', {user_ip: user_data, user_country: country_code}); 
 
 	// Selects all of the text in the chart export window when clicked
@@ -2515,7 +2517,7 @@ $( "#chartExport" ).click(function() {
 		chart.export.capture({},function() {
 			this.toPNG({},function(data) {
 				// Download the image to the browser
-				this.download( data, "image/png", "TSLA-revenue-2021-06-29-macrotrends.png" );
+				this.download( data, "image/png", "TSLA-revenue-2022-03-24-macrotrends.png" );
 				
 				});
 
@@ -2529,13 +2531,13 @@ $( "#chartExport" ).click(function() {
 
 $( ".statement_type_select" ).change(function() {
   
-  window.location.href = 'https://testing.macrotrends.net/assets/php/income_statement_testing.php?t=AUTO&type=' + this.value + '&freq=Q';
+  window.location.href = 'https://testing.macrotrends.net/assets/php/income_statement_testing.php?t=BRDS&type=' + this.value + '&freq=Q';
 
 });
 
 $( ".frequency_select" ).change(function() {
   
-  window.location.href = '/assets/php/new_chart_page.php?t=AUTO&type=revenue&freq=' + this.value;
+  window.location.href = '/assets/php/new_chart_page.php?t=BRDS&type=revenue&freq=' + this.value;
 
 });
 
@@ -2667,7 +2669,7 @@ clicky_site_ids.push(100827248);
 
 
 <!-- This site is converting visitors into subscribers and customers with OptinMonster - https://optinmonster.com -->
-<script type="text/javascript" src="https://a.omappapi.com/app/js/api.min.js" data-account="6392" data-user="15772" async></script>
+<!-- <script type="text/javascript" src="https://a.omappapi.com/app/js/api.min.js" data-account="6392" data-user="15772" async></script> -->
 <!-- / OptinMonster -->
 
 

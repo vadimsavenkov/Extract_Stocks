@@ -8,12 +8,12 @@
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 		<link rel="canonical" href="https://www.macrotrends.net/stocks/charts/GME/gamestop/revenue" />
-		<title>GameStop Revenue 2006-2021 | GME | MacroTrends</title>
-		<meta name="description" content="GameStop annual/quarterly revenue history and growth rate from 2006 to 2021. Revenue can be defined as the amount of money a company receives from its customers in exchange for the sales of goods or services.  Revenue is the top line item on an income statement from which all costs and expenses are subtracted to arrive at net income.    
+		<title>GameStop Revenue 2010-2021 | GME | MacroTrends</title>
+		<meta name="description" content="GameStop annual/quarterly revenue history and growth rate from 2010 to 2021. Revenue can be defined as the amount of money a company receives from its customers in exchange for the sales of goods or services.  Revenue is the top line item on an income statement from which all costs and expenses are subtracted to arrive at net income.    
 				
 				&lt;ul style='margin-top:10px;'&gt;
-				&lt;li&gt;GameStop revenue for the quarter ending April 30, 2021 was &lt;strong&gt;$1.277B&lt;/strong&gt;, a &lt;strong&gt;25.05% increase&lt;/strong&gt; year-over-year.&lt;/li&gt;
-				&lt;li&gt;GameStop revenue for the twelve months ending April 30, 2021 was &lt;strong&gt;$5.346B&lt;/strong&gt;, a &lt;strong&gt;10% decline&lt;/strong&gt; year-over-year.&lt;/li&gt;
+				&lt;li&gt;GameStop revenue for the quarter ending October 31, 2021 was &lt;strong&gt;$1.297B&lt;/strong&gt;, a &lt;strong&gt;29.05% increase&lt;/strong&gt; year-over-year.&lt;/li&gt;
+				&lt;li&gt;GameStop revenue for the twelve months ending October 31, 2021 was &lt;strong&gt;$5.879B&lt;/strong&gt;, a &lt;strong&gt;13.89% increase&lt;/strong&gt; year-over-year.&lt;/li&gt;
 				&lt;li&gt;GameStop annual revenue for 2021 was &lt;strong&gt;$5.09B&lt;/strong&gt;, a &lt;strong&gt;21.28% decline&lt;/strong&gt; from 2020.&lt;/li&gt;
 				&lt;li&gt;GameStop annual revenue for 2020 was &lt;strong&gt;$6.466B&lt;/strong&gt;, a &lt;strong&gt;21.96% decline&lt;/strong&gt; from 2019.&lt;/li&gt;
 				&lt;li&gt;GameStop annual revenue for 2019 was &lt;strong&gt;$8.285B&lt;/strong&gt;, a &lt;strong&gt;3.06% decline&lt;/strong&gt; from 2018.&lt;/li&gt;
@@ -52,12 +52,12 @@
 		 <!-- Twitter Card data -->
 		  <meta name="twitter:card" content="summary_large_image">
 		  <meta name="twitter:site" content="@tmacrotrends">
-		  <meta name="twitter:title" content="GameStop Revenue 2006-2021 | GME">
-		  <meta name="twitter:description" content="GameStop annual/quarterly revenue history and growth rate from 2006 to 2021. Revenue can be defined as the amount of money a company receives from its customers in exchange for the sales of goods or services.  Revenue is the top line item on an income statement from which all costs and expenses are subtracted to arrive at net income.    
+		  <meta name="twitter:title" content="GameStop Revenue 2010-2021 | GME">
+		  <meta name="twitter:description" content="GameStop annual/quarterly revenue history and growth rate from 2010 to 2021. Revenue can be defined as the amount of money a company receives from its customers in exchange for the sales of goods or services.  Revenue is the top line item on an income statement from which all costs and expenses are subtracted to arrive at net income.    
 				
 				<ul style='margin-top:10px;'>
-				<li>GameStop revenue for the quarter ending April 30, 2021 was <strong>$1.277B</strong>, a <strong>25.05% increase</strong> year-over-year.</li>
-				<li>GameStop revenue for the twelve months ending April 30, 2021 was <strong>$5.346B</strong>, a <strong>10% decline</strong> year-over-year.</li>
+				<li>GameStop revenue for the quarter ending October 31, 2021 was <strong>$1.297B</strong>, a <strong>29.05% increase</strong> year-over-year.</li>
+				<li>GameStop revenue for the twelve months ending October 31, 2021 was <strong>$5.879B</strong>, a <strong>13.89% increase</strong> year-over-year.</li>
 				<li>GameStop annual revenue for 2021 was <strong>$5.09B</strong>, a <strong>21.28% decline</strong> from 2020.</li>
 				<li>GameStop annual revenue for 2020 was <strong>$6.466B</strong>, a <strong>21.96% decline</strong> from 2019.</li>
 				<li>GameStop annual revenue for 2019 was <strong>$8.285B</strong>, a <strong>3.06% decline</strong> from 2018.</li>
@@ -65,12 +65,12 @@
 
 		  <!-- Open Graph data -->
 		  <meta property="og:url" content="https://www.macrotrends.net/stocks/charts/GME/gamestop/revenue" />  
-		  <meta property="og:title" content="GameStop Revenue 2006-2021 | GME" />
-		  <meta property="og:description" content="GameStop annual/quarterly revenue history and growth rate from 2006 to 2021. Revenue can be defined as the amount of money a company receives from its customers in exchange for the sales of goods or services.  Revenue is the top line item on an income statement from which all costs and expenses are subtracted to arrive at net income.    
+		  <meta property="og:title" content="GameStop Revenue 2010-2021 | GME" />
+		  <meta property="og:description" content="GameStop annual/quarterly revenue history and growth rate from 2010 to 2021. Revenue can be defined as the amount of money a company receives from its customers in exchange for the sales of goods or services.  Revenue is the top line item on an income statement from which all costs and expenses are subtracted to arrive at net income.    
 				
 				<ul style='margin-top:10px;'>
-				<li>GameStop revenue for the quarter ending April 30, 2021 was <strong>$1.277B</strong>, a <strong>25.05% increase</strong> year-over-year.</li>
-				<li>GameStop revenue for the twelve months ending April 30, 2021 was <strong>$5.346B</strong>, a <strong>10% decline</strong> year-over-year.</li>
+				<li>GameStop revenue for the quarter ending October 31, 2021 was <strong>$1.297B</strong>, a <strong>29.05% increase</strong> year-over-year.</li>
+				<li>GameStop revenue for the twelve months ending October 31, 2021 was <strong>$5.879B</strong>, a <strong>13.89% increase</strong> year-over-year.</li>
 				<li>GameStop annual revenue for 2021 was <strong>$5.09B</strong>, a <strong>21.28% decline</strong> from 2020.</li>
 				<li>GameStop annual revenue for 2020 was <strong>$6.466B</strong>, a <strong>21.96% decline</strong> from 2019.</li>
 				<li>GameStop annual revenue for 2019 was <strong>$8.285B</strong>, a <strong>3.06% decline</strong> from 2018.</li>
@@ -122,7 +122,9 @@
 		var partner_center_tag;
 		var videoTag;
 		var ic_3x7_1;
-    
+ 		//var IC_D_300x250_BCC;
+		//var IC_D_3x7_BCC;
+   
         //To define new tags/out of page tags.
         InvestingChannelQueue.push(function() {
 			
@@ -134,7 +136,7 @@
 			oopDivTag.setKval({"adslot":"IC_OOP_1"});
             
 			
-			subLeaderboardTag = ic_page.defineTag("Macrotrends/fundamentalanalysis","728x90,Fluid","ic_728x90_1");
+			subLeaderboardTag = ic_page.defineTag("Macrotrends/fundamentalanalysis","728x90","ic_728x90_1");
 			subLeaderboardTag.setKval({"adslot":"IC_728x90_1"});
 			
 			
@@ -153,11 +155,18 @@
 			partner_center_tag.setKval({"pc":"pc","adslot":"d_728x90_2"});
 
 			ic_3x7_1 = ic_page.defineNativeTag("macrotrends/fundamentalanalysis","3x7,728x90,Fluid","IC_3x7_1", 35);
+			
+			//IC_D_300x250_BCC = ic_page.defineTag(adCategory,"300x250,Fluid","IC_D_300x250_BCC");
+			//IC_D_300x250_BCC.setKval({"adslot":"IC_D_300x250_BCC"});
+
+			//IC_D_3x7_BCC = ic_page.defineTag(adCategory,"3x7, Fluid","IC_D_3x7_BCC");
+			//IC_D_3x7_BCC.setKval({"adslot":"IC_D_3x7_BCC"});
+			
 
         });
     
         //To render tags.
-        InvestingChannelQueue.push(function() {
+			InvestingChannelQueue.push(function() {
             ic_page.renderTags();
         });
         
@@ -312,7 +321,7 @@ body {
 	
   width: 300px;
   float:left;
-  height:3050px;
+  height:2960px;
 	
 }
 
@@ -739,7 +748,7 @@ select {
 
 .nav-tabs>li>a {
 	font-size:13px;
-	padding:7px 12px;
+	padding:7px 11px;
 	font-weight:600;
     margin-right: 0px;
     line-height: 1.42857143;
@@ -912,7 +921,7 @@ select {
 			
 			<div style="margin:20px;">
 			
-				<h2 style="margin-left:0px; font-weight:600; color:#444;">GameStop Revenue 2006-2021 | GME</h2>
+				<h2 style="margin-left:0px; font-weight:600; color:#444;">GameStop Revenue 2010-2021 | GME</h2>
 			
 			</div>
 			
@@ -1038,27 +1047,17 @@ select {
 
 
 
-
-<div class="nav-tabs" style="margin-bottom:20px; padding:15px; text-align:center; font-weight:600;">
-
-	<span>For a detailed definition, formula and example for <a href="/formulas-definitions/revenue">Revenue</a>, check out our new background page <a href="/formulas-definitions/revenue">here</a>.</span>
-
-</div>
-
-
-
-
 			
 
 		
 
 			<div style="background-color:#fff; margin: 0px 0px 20px 0px; padding:20px 30px; border:1px solid #dfdfdf;">
 			
-				<span style="color:#444; line-height: 1.8;">GameStop annual/quarterly revenue history and growth rate from 2006 to 2021. Revenue can be defined as the amount of money a company receives from its customers in exchange for the sales of goods or services.  Revenue is the top line item on an income statement from which all costs and expenses are subtracted to arrive at net income.    
+				<span style="color:#444; line-height: 1.8;">GameStop annual/quarterly revenue history and growth rate from 2010 to 2021. Revenue can be defined as the amount of money a company receives from its customers in exchange for the sales of goods or services.  Revenue is the top line item on an income statement from which all costs and expenses are subtracted to arrive at net income.    
 				
 				<ul style='margin-top:10px;'>
-				<li>GameStop revenue for the quarter ending April 30, 2021 was <strong>$1.277B</strong>, a <strong>25.05% increase</strong> year-over-year.</li>
-				<li>GameStop revenue for the twelve months ending April 30, 2021 was <strong>$5.346B</strong>, a <strong>10% decline</strong> year-over-year.</li>
+				<li>GameStop revenue for the quarter ending October 31, 2021 was <strong>$1.297B</strong>, a <strong>29.05% increase</strong> year-over-year.</li>
+				<li>GameStop revenue for the twelve months ending October 31, 2021 was <strong>$5.879B</strong>, a <strong>13.89% increase</strong> year-over-year.</li>
 				<li>GameStop annual revenue for 2021 was <strong>$5.09B</strong>, a <strong>21.28% decline</strong> from 2020.</li>
 				<li>GameStop annual revenue for 2020 was <strong>$6.466B</strong>, a <strong>21.96% decline</strong> from 2019.</li>
 				<li>GameStop annual revenue for 2019 was <strong>$8.285B</strong>, a <strong>3.06% decline</strong> from 2018.</li>
@@ -1138,7 +1137,7 @@ select {
 		
 		<div style="height:690px; background-color:#fff; border:1px solid #dfdfdf;">
 		
-<iframe id="chart_iframe" title="Interactive chart: GameStop Revenue 2006-2021 | GME" valign="middle" margin="0px" width="800" height="680" marginheight=0 marginwidth=0 frameborder=0 vspace=0 hspace=0 scrolling=NO  src="https://www.macrotrends.net/assets/php/fundamental_iframe.php?t=GME&type=revenue&statement=income-statement&freq=Q"></iframe>	
+<iframe id="chart_iframe" title="Interactive chart: GameStop Revenue 2010-2021 | GME" valign="middle" margin="0px" width="800" height="680" marginheight=0 marginwidth=0 frameborder=0 vspace=0 hspace=0 scrolling=NO  src="https://www.macrotrends.net/assets/php/fundamental_iframe.php?t=GME&type=revenue&statement=income-statement&freq=Q"></iframe>	
 	
 		
 		</div>
@@ -1158,7 +1157,10 @@ select {
 			<div style="background-color:#fff; margin: 30px 0px; padding:10px 30px; border:1px solid #dfdfdf;">
 		
 		
-			<iframe id="dianomi_below_chart" valign="middle" width="100%" height="300" marginheight=0 marginwidth=0 frameborder=0 vspace=0 hspace=0 scrolling=NO  src="//www.dianomi.com/smartads.epl?id=4057"></iframe>	
+			<iframe id="dianomi_below_chart" valign="middle" width="100%" height="300" marginheight=0 marginwidth=0 frameborder=0 vspace=0 hspace=0 scrolling=NO  src="//www.dianomi.com/smartads.epl?id=4057"></iframe>
+
+			<!--<div id="IC_D_3x7_BCC"></div>-->
+			
 		
 		</div>		
 
@@ -1320,50 +1322,6 @@ select {
 								
 				</tr>
 				  
-												
-				<tr>
-					<td style="text-align:center">2008</td>
-				
-				
-				
-										<td style="text-align:center">$7,094</td>
-				
-								
-				</tr>
-				  
-												
-				<tr>
-					<td style="text-align:center">2007</td>
-				
-				
-				
-										<td style="text-align:center">$5,319</td>
-				
-								
-				</tr>
-				  
-												
-				<tr>
-					<td style="text-align:center">2006</td>
-				
-				
-				
-										<td style="text-align:center">$3,092</td>
-				
-								
-				</tr>
-				  
-												
-				<tr>
-					<td style="text-align:center">2005</td>
-				
-				
-				
-										<td style="text-align:center">$1,843</td>
-				
-								
-				</tr>
-				  
 				  
 				</tbody>
 			  </table>
@@ -1380,6 +1338,34 @@ select {
 				</thead>				
 				<tbody>
 				
+												
+				<tr>
+					<td style="text-align:center">2021-10-31</td>
+				
+				
+				
+										
+										
+						<td style="text-align:center">$1,297</td>
+						
+									
+								
+				  </tr>
+				  
+												
+				<tr>
+					<td style="text-align:center">2021-07-31</td>
+				
+				
+				
+										
+										
+						<td style="text-align:center">$1,183</td>
+						
+									
+								
+				  </tr>
+				  
 												
 				<tr>
 					<td style="text-align:center">2021-04-30</td>
@@ -2080,230 +2066,6 @@ select {
 								
 				  </tr>
 				  
-												
-				<tr>
-					<td style="text-align:center">2008-10-31</td>
-				
-				
-				
-										
-										
-						<td style="text-align:center">$1,696</td>
-						
-									
-								
-				  </tr>
-				  
-												
-				<tr>
-					<td style="text-align:center">2008-07-31</td>
-				
-				
-				
-										
-										
-						<td style="text-align:center">$1,804</td>
-						
-									
-								
-				  </tr>
-				  
-												
-				<tr>
-					<td style="text-align:center">2008-04-30</td>
-				
-				
-				
-										
-										
-						<td style="text-align:center">$1,814</td>
-						
-									
-								
-				  </tr>
-				  
-												
-				<tr>
-					<td style="text-align:center">2008-01-31</td>
-				
-				
-				
-										
-										
-						<td style="text-align:center">$2,866</td>
-						
-									
-								
-				  </tr>
-				  
-												
-				<tr>
-					<td style="text-align:center">2007-10-31</td>
-				
-				
-				
-										
-										
-						<td style="text-align:center">$1,611</td>
-						
-									
-								
-				  </tr>
-				  
-												
-				<tr>
-					<td style="text-align:center">2007-07-31</td>
-				
-				
-				
-										
-										
-						<td style="text-align:center">$1,338</td>
-						
-									
-								
-				  </tr>
-				  
-												
-				<tr>
-					<td style="text-align:center">2007-04-30</td>
-				
-				
-				
-										
-										
-						<td style="text-align:center">$1,279</td>
-						
-									
-								
-				  </tr>
-				  
-												
-				<tr>
-					<td style="text-align:center">2007-01-31</td>
-				
-				
-				
-										
-										
-						<td style="text-align:center">$2,304</td>
-						
-									
-								
-				  </tr>
-				  
-												
-				<tr>
-					<td style="text-align:center">2006-10-31</td>
-				
-				
-				
-										
-										
-						<td style="text-align:center">$1,012</td>
-						
-									
-								
-				  </tr>
-				  
-												
-				<tr>
-					<td style="text-align:center">2006-07-31</td>
-				
-				
-				
-										
-										
-						<td style="text-align:center">$963</td>
-						
-									
-								
-				  </tr>
-				  
-												
-				<tr>
-					<td style="text-align:center">2006-04-30</td>
-				
-				
-				
-										
-										
-						<td style="text-align:center">$1,040</td>
-						
-									
-								
-				  </tr>
-				  
-												
-				<tr>
-					<td style="text-align:center">2006-01-31</td>
-				
-				
-				
-										
-										
-						<td style="text-align:center">$1,667</td>
-						
-									
-								
-				  </tr>
-				  
-												
-				<tr>
-					<td style="text-align:center">2005-10-31</td>
-				
-				
-				
-										
-										
-						<td style="text-align:center">$534</td>
-						
-									
-								
-				  </tr>
-				  
-												
-				<tr>
-					<td style="text-align:center">2005-07-31</td>
-				
-				
-				
-										
-										
-						<td style="text-align:center">$416</td>
-						
-									
-								
-				  </tr>
-				  
-												
-				<tr>
-					<td style="text-align:center">2005-04-30</td>
-				
-				
-				
-										
-										
-						<td style="text-align:center">$475</td>
-						
-									
-								
-				  </tr>
-				  
-												
-				<tr>
-					<td style="text-align:center">2005-01-31</td>
-				
-				
-				
-										
-										
-						<td style="text-align:center">$709</td>
-						
-									
-								
-				  </tr>
-				  
 				  
 				</tbody>
 			  </table>
@@ -2331,8 +2093,8 @@ select {
 				  <tr>
 					<td style="text-align:center"><a href='https://www.macrotrends.net/stocks/sector/3/retail-wholesale'>Retail/Wholesale</a></td>
 					<td style="text-align:center"><a href='https://www.macrotrends.net/stocks/industry/156/'>Retail - Consumer Electronics</a></td>
-					<td style="text-align:center">$15.046B</td>
-					<td style="text-align:center">$5.090B</td>
+					<td style="text-align:center">$10.764B</td>
+					<td style="text-align:center">$6.011B</td>
 				  </tr>
 				  <tr>
 					  <td colspan="4" style="padding:15px;">
@@ -2363,17 +2125,8 @@ select {
 				<tr>
 					<td style="text-align:left"><a href='/stocks/charts/BBY/best-buy/revenue'>Best Buy (BBY)</a></td>
 					<td style="text-align:center">United States</td>
-					<td style="text-align:center">$28.316B</td>
-					<td style="text-align:center">11.93</td>
-				 </tr>
-
-						
-						
-				<tr>
-					<td style="text-align:left"><a href='/stocks/charts/GMELY/gome-retail-holdings/revenue'>GOME Retail Holdings (GMELY)</a></td>
-					<td style="text-align:center">China</td>
-					<td style="text-align:center">$4.952B</td>
-					<td style="text-align:center">0.00</td>
+					<td style="text-align:center">$21.755B</td>
+					<td style="text-align:center">9.64</td>
 				 </tr>
 
 						
@@ -2381,26 +2134,8 @@ select {
 				<tr>
 					<td style="text-align:left"><a href='/stocks/charts/VVNT/vivint-smart-home/revenue'>Vivint Smart Home (VVNT)</a></td>
 					<td style="text-align:center">United States</td>
-					<td style="text-align:center">$2.792B</td>
+					<td style="text-align:center">$1.574B</td>
 					<td style="text-align:center">0.00</td>
-				 </tr>
-
-						
-						
-				<tr>
-					<td style="text-align:left"><a href='/stocks/charts/CONN/conns/revenue'>Conn's (CONN)</a></td>
-					<td style="text-align:center">United States</td>
-					<td style="text-align:center">$0.764B</td>
-					<td style="text-align:center">7.52</td>
-				 </tr>
-
-						
-						
-				<tr>
-					<td style="text-align:left"><a href='/stocks/charts/TAIT/taitron-components/revenue'>Taitron Components (TAIT)</a></td>
-					<td style="text-align:center">United States</td>
-					<td style="text-align:center">$0.031B</td>
-					<td style="text-align:center">18.82</td>
 				 </tr>
 
 						
@@ -2456,10 +2191,18 @@ select {
 					
 				</div>
 				
-				<div id="sticky_ad_right" style="margin-top:30px; height:670px;">
+				<div id="sticky_ad_right" style="margin-top:30px; height:1000px;">
+				
+					<script type="text/javascript" id="dianomi_context_script" src="https://www.dianomi.com/js/contextfeed.js"></script>
+					<div class="dianomi_context" data-dianomi-context-id="743"></div>
+
+					<!-- <div id="IC_D_300x250_BCC"></div>-->
 
 					<!--Smartad # 2981: Macrotrends - 300x670 Right Rail-->
 					<iframe id="dianomi_sidebar" width="300" height="670" scrolling="NO" src="//www.dianomi.com/smartads.epl?id=4059"  style="width: 300px; border: none; overflow: hidden;"></iframe>
+					
+					<div id="IC_D_300x250_BCC"></div>
+
 
 				</div>			
 
@@ -2482,7 +2225,7 @@ select {
 
 <footer class="footer">
 
-		<span>&copy; 2010-2021 Macrotrends LLC</span>&nbsp;&nbsp;|&nbsp;&nbsp;
+		<span>&copy; 2010-2022 Macrotrends LLC</span>&nbsp;&nbsp;|&nbsp;&nbsp;
 		  <a href="/terms">Terms of Service</a>
 		  &nbsp;&nbsp;|&nbsp;&nbsp;
 		  <a href="/privacy">Privacy Policy</a>&nbsp;&nbsp;|&nbsp;&nbsp;
@@ -2516,8 +2259,8 @@ select {
 </thead>
 <tbody>
 <tr>
-<td><a>GameStop Revenue 2006-2021 | GME</a></td>
-<td><input type="text" class="modal_link" size="60" value="<a href='https://www.macrotrends.net/stocks/charts/GME/gamestop/revenue'>GameStop Revenue 2006-2021 | GME</a>"></td>
+<td><a>GameStop Revenue 2010-2021 | GME</a></td>
+<td><input type="text" class="modal_link" size="60" value="<a href='https://www.macrotrends.net/stocks/charts/GME/gamestop/revenue'>GameStop Revenue 2010-2021 | GME</a>"></td>
 </tr>
 <tr>
 <td><a>Macrotrends</a></td>
@@ -2568,8 +2311,8 @@ select {
 </thead>
 <tbody>
 <tr>
-<td><a>GameStop Revenue 2006-2021 | GME</a></td>
-<td><input type="text" class="modal_link" size="50" value="<a href='https://www.macrotrends.net/stocks/charts/GME/gamestop/revenue'>GameStop Revenue 2006-2021 | GME</a>"></td>
+<td><a>GameStop Revenue 2010-2021 | GME</a></td>
+<td><input type="text" class="modal_link" size="50" value="<a href='https://www.macrotrends.net/stocks/charts/GME/gamestop/revenue'>GameStop Revenue 2010-2021 | GME</a>"></td>
 </tr>
 <tr>
 <td><a>Macrotrends</a></td>
@@ -2678,7 +2421,7 @@ select {
 
 $(document).ready(function() {
 	
-	var user_data = '169.61.138.44';	var country_code = 'United States';
+	var user_data = '41.231.86.22';	var country_code = 'United States';
 	$.post('https://www.macrotrends.net/assets/php/user_frequency_tracking.php', {user_ip: user_data, user_country: country_code}); 
 
 	// Selects all of the text in the chart export window when clicked
@@ -2734,7 +2477,7 @@ $( "#chartExport" ).click(function() {
 		chart.export.capture({},function() {
 			this.toPNG({},function(data) {
 				// Download the image to the browser
-				this.download( data, "image/png", "GME-revenue-2021-06-29-macrotrends.png" );
+				this.download( data, "image/png", "GME-revenue-2022-03-24-macrotrends.png" );
 				
 				});
 
@@ -2748,13 +2491,13 @@ $( "#chartExport" ).click(function() {
 
 $( ".statement_type_select" ).change(function() {
   
-  window.location.href = 'https://testing.macrotrends.net/assets/php/income_statement_testing.php?t=TAIT&type=' + this.value + '&freq=Q';
+  window.location.href = 'https://testing.macrotrends.net/assets/php/income_statement_testing.php?t=VVNT&type=' + this.value + '&freq=Q';
 
 });
 
 $( ".frequency_select" ).change(function() {
   
-  window.location.href = '/assets/php/new_chart_page.php?t=TAIT&type=revenue&freq=' + this.value;
+  window.location.href = '/assets/php/new_chart_page.php?t=VVNT&type=revenue&freq=' + this.value;
 
 });
 
@@ -2886,7 +2629,7 @@ clicky_site_ids.push(100827248);
 
 
 <!-- This site is converting visitors into subscribers and customers with OptinMonster - https://optinmonster.com -->
-<script type="text/javascript" src="https://a.omappapi.com/app/js/api.min.js" data-account="6392" data-user="15772" async></script>
+<!-- <script type="text/javascript" src="https://a.omappapi.com/app/js/api.min.js" data-account="6392" data-user="15772" async></script> -->
 <!-- / OptinMonster -->
 
 
