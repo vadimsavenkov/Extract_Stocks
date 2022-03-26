@@ -2461,7 +2461,7 @@ select {
 
 $(document).ready(function() {
 	
-	var user_data = '76.84.226.100';	var country_code = 'United States';
+	var user_data = '66.249.92.159';	var country_code = 'United States';
 	$.post('https://www.macrotrends.net/assets/php/user_frequency_tracking.php', {user_ip: user_data, user_country: country_code}); 
 
 	// Selects all of the text in the chart export window when clicked
@@ -2517,7 +2517,7 @@ $( "#chartExport" ).click(function() {
 		chart.export.capture({},function() {
 			this.toPNG({},function(data) {
 				// Download the image to the browser
-				this.download( data, "image/png", "TSLA-revenue-2022-03-24-macrotrends.png" );
+				this.download( data, "image/png", "TSLA-revenue-2022-03-25-macrotrends.png" );
 				
 				});
 
